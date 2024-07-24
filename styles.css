@@ -276,7 +276,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 1.8rem;
+  font-size: 29px;
   color: #123f53;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
   animation: fadeIn 2s ease-in-out;
